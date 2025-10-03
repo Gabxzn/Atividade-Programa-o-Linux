@@ -19,3 +19,4 @@ O objetivo da atividade é:
 - https://docs.google.com/document/d/1cN3T6lhFaMokGfmRxsnsvFVn-JTN3Ha2F25pOcJKK-0/edit?usp=sharing
 
 ## PDF do Relatório
+[Atividade-Programação Linux.pdf](https://github.com/user-attachments/files/22671380/Atividade-Programacao.Linux.pdf)
