@@ -13,7 +13,8 @@ O objetivo da atividade é:
     - [Linux_embarcado_intro.pdf](https://github.com/user-attachments/files/22670968/Linux_embarcado_intro.pdf);  
     - [Linux_embarcado_anatomia.pdf](https://github.com/user-attachments/files/22670979/Linux_embarcado_anatomia.pdf);  
     - [Linux_prog_ch1.pdf](https://github.com/user-attachments/files/22670980/Linux_prog_ch1.pdf);  
-➣Instalar os pacotes de software gcc no MobaXterm e compilar os códigos fornecidos.
+➣Instalar os pacotes de software gcc no MobaXterm e compilar os códigos fornecidos em [Makefile_chap1.zip](https://github.com/user-attachments/files/22671920/Makefile_chap1.zip).
+
 
 ## Link para acesso do Relatório da atividade(Google Documentos)
 - https://docs.google.com/document/d/1cN3T6lhFaMokGfmRxsnsvFVn-JTN3Ha2F25pOcJKK-0/edit?usp=sharing
